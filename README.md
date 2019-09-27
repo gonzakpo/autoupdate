@@ -1,2 +1,2 @@
-Auto Update Version 6
+Auto Update Version 7
 =====================
